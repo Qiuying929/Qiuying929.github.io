@@ -14,14 +14,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Cheng-Jun Wang is currently a full  professor in the [School of Journalism and Communication, Nanjing University](http://jc.nju.edu.cn). He is the director of [Computational Communication Collaboratory](https://computational-communication.com/) and the [Socrates Lab](https://chengjun.github.io/socrateslab/). He is also a research member of [Web Mining Lab](http://weblab.com.cityu.edu.hk), City University of Hong Kong. His research interest focuses on employing big data, computational methods, and social theories to study human communication behaviors, including but not limited to information diffusion, attention flow, and computational narrative. His research on computational communication appears in both SSCI and SCI indexed journals. His new book **Jumping over the network threshold: Information diffusion on social media** (in Chinese [《跨越网络的门槛：社交媒体上的信息扩散》](https://book.douban.com/subject/36017047/)) has recently been published by the Science Press in July 2022. You can find his [CV](cv/) here.
-
+Ma Qiuying is a graduate student majoring in Journalism and Communication, focusing on digital marketing communication. She is currently studying at the School of Journalism and Communication at Nanjing University, taking courses such as Introduction to Computational Communication. Additionally, she is keen on practicing figure sketching and frame-by-frame animation production, planning to complete a 5-episode, 5-minute animated short film in her first year of graduate school. In terms of academics, she has not yet published any works.
 <img src="https://user-images.githubusercontent.com/543384/178952701-6e595809-3059-41d4-9d88-356a9b339445.png" align = "middle" width = "800px">
 
 
 <br>
 
-<a href="https://github.com/SocratesClub/SocratesClub.github.io/edit/master/_pages/about.md">
+<a href="https://github.com/Qiuying929/Qiuying929.github.io/edit/master/_pages/about.md">
   <img src="https://user-images.githubusercontent.com/543384/192227995-fdb3a693-2f68-4dc4-b9bd-06053066322f.png" width = "800" align="middle" />
 </a>
 
